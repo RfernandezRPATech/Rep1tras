@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PKXaXG4nNUS-qrOUvgX_lg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="609, 76, 334, 244" DesignTimeScaleFactor="1" FriendlyName="'Sign in'" FullSelectorArgument="&lt;ctrl name='Sign in' role='dialog' /&gt;&lt;ctrl idx='2' role='pane' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Sign in' role='dialog' /&gt;&lt;ctrl automationid='' role='pane' check:fulltext='Sign in&amp;#xD;&amp;#xA;https://bi.natra.com&amp;#xD;&amp;#xA;UsernamePassword&amp;#xD;&amp;#xA;Sign in&amp;#xD;&amp;#xA;Cancel' /&gt;" Guid="4f05de25-10f3-49f6-a468-6ce8fbdcb807" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='bi.natra.com/internal_windows_authentication/?targetId=9b2942ab-*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ff13a98d6e6b9214a583e0a48932a861.png" xmlns="">0yTJ6ZYRIxU2AUl_kg5rM0Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

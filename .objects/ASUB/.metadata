@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Chrome: Management Consolidation Dashboard -  app",
+  "Type": "App",
+  "Id": "ASUBgKagK0OABmESNt0O0w",
+  "Reference": "wxy8BsB4OUKcAt51HVD5Aw/ASUBgKagK0OABmESNt0O0w",
+  "Created": "2023-11-03T13:17:38.8279522Z",
+  "Updated": "2023-11-03T13:17:38.8279522Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

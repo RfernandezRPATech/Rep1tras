@@ -1,0 +1,31 @@
+﻿{  
+    "OrchestratorFolder" : "Shared",  
+    "OrchestratorQueueName" : "",
+    "Retries": 3,
+	
+	"_SharedFolderLetter":"Z",
+	"FolderFicherosDescargados": "C:\\Users\\svcrpauser\\Desktop\\Bot1PMFicherosDownload\\",
+	"FolderHistorial":"C:\\Users\\svcrpauser\\Desktop\\FIES_PartesMedicos_Queues\\",
+
+	"PathCCC":"Data\\CCC.xlsx",
+	"DownloadedFile":"\\Downloads\\FICHERO FIE 1.xls",
+	"Regimen":"0111",
+	"FIER_URL":"https://w2.seg-social.es/ProsaInternet/OnlineAccess?ARQ.SPM.ACTION=LOGIN&ARQ.SPM.APPTYPE=SERVICE&ARQ.IDAPP=XV26L100",
+	"ListaAddresses":"rfernandez@rpatechnologies.es",
+	"NombreProyecto":"Partes Médicos Bot 1",
+	"PathRaiz":"C:\\Users\\svcrpauser\\Documents\\UiPath\\RPATechnologies_PartesMedicos_R1Producer\\Data\\Temp\\",
+	
+	"ReportsFolder":"C:\\Users\\svcrpauser\\Documents\\UiPath\\RPATechnologies_PartesMedicos_R1Producer\\Data\\Temp\\Reportes\\",
+	"NombreCarpetaEvidencias":"\\Evidencias",
+	"NombreCarpetaTemporal":"\\Temp",
+	"InputFile":"NON",
+	"NombreHojaExcel":"Sheet1",
+	"NombreCarpetaReporte":"\\Reportes",
+	"AsuntoCorreo":"Partes Medicos Bot 1 Productor Report",
+	"_ListaMails":"rfernandez@rpatechnologies.es",
+	"SiltraPath":"O:\\plclapli\\apli\\PRODUCCIO-IG\\FACTORES COAG\\RPA ",
+
+	"Assets":"ListaMails;SharedFolderLetter"
+
+
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Export",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "pyYQTw69OkmGXizMA8E2VQ",
+  "Reference": "wxy8BsB4OUKcAt51HVD5Aw/pyYQTw69OkmGXizMA8E2VQ",
+  "ParentRef": "wxy8BsB4OUKcAt51HVD5Aw/W25amvSiZ0OEqkiJUvN--g",
+  "Created": "2023-11-03T13:17:39.0229809Z",
+  "Updated": "2023-11-03T13:17:39.0229809Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

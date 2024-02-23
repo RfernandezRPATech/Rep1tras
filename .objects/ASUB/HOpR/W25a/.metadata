@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome: Management Consolidation Dashboard - ",
+  "Type": "Screen",
+  "Id": "W25amvSiZ0OEqkiJUvN--g",
+  "Reference": "wxy8BsB4OUKcAt51HVD5Aw/W25amvSiZ0OEqkiJUvN--g",
+  "ParentRef": "wxy8BsB4OUKcAt51HVD5Aw/HOpRDWDluUu52JGMZJhdig",
+  "Created": "2023-11-03T13:17:38.8711164Z",
+  "Updated": "2023-11-03T13:17:38.8711164Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.8.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
